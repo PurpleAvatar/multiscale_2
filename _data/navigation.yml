@@ -1,8 +1,8 @@
 main:
   - title: "Prologue"
-    url: /prologue/
+    url: /prologue/start
   - title: "Module 1"
-    url: /module1/
+    url: /module_1/start
   - title: "About"
     url: /about/
 
