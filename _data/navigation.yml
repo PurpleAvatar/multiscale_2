@@ -1,9 +1,28 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Prologue"
+    url: /prologue/
+  - title: "Module 1"
+    url: /module1/
   - title: "About"
     url: /about/
+
+pro:
+  - title: Prologue
+    children:
+      - title: "Start"
+        url: /prologue/start/
+      - title: "Set up"
+        url: /prologue/setup
+
+mod1:
+  - title: Setting up CellBlender
+    children:
+      - title: "Start"
+        url: /module_1/start/
+      - title: "Set up"
+        url: /module_1/setup
+
+  - title: Feed Forward Loop
+    children:
+      - title: "Basic Concepts"
+        url: /module_1/setup/
