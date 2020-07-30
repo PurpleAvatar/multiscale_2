@@ -13,6 +13,20 @@ Different options for figure captions: https://stackoverflow.com/questions/19331
 
 Welcome to the home page
 
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Jane Doe</h2>
+        <p class="title">CEO &amp; Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
 Try not to repeat the title with a wide layout, but did that pound sign break everything? Return back to the single format
 
 <div class="testBreak"> Text here with margins apparently, reaching across the sides </div>
