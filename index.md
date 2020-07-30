@@ -10,8 +10,6 @@ Different options for figure captions: https://stackoverflow.com/questions/19331
 
 Welcome to the home page
 
-![image-center](/assets/images/bio-photo.jpg){: .align-center}
-
 Try not to repeat the title with a wide layout, but did that pound sign break everything? Return back to the single format
 
 Where does this (here) text go? (index.md) Changing as we go10
@@ -21,6 +19,6 @@ Classes: wide" extends content to the right of this page. This is the home page,
 Adding the video here: 
 Note how the frameborder is set to 1
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" marginheight="100" allowfullscreen></iframe>
 
 Here's some content after the video to check the formatting
