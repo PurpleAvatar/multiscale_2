@@ -15,7 +15,7 @@ Welcome to the home page
 
 Try not to repeat the title with a wide layout, but did that pound sign break everything? Return back to the single format
 
-<div class="testBreak"> Text here </div>
+<div class="testBreak"> Text here with margins apparently, reaching across the sides </div>
 
 Where does this (here) text go? (index.md) Changing as we go10
 
