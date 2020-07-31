@@ -26,6 +26,12 @@ search: true
 
 # Build settings
 markdown: kramdown
+
+# Added for Latex formatting
+kramdown: 
+  math-engine: katex
+
+
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
