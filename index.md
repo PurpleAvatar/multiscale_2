@@ -20,7 +20,7 @@ Other text.[^footnote].
 
 Welcome to the home page
 
-<div class="row" markdown="1">
+<div class="row">
   /* Add new profiles, use 2 columns per row div */
   <div class="column">
     <div class="card">
@@ -28,7 +28,7 @@ Welcome to the home page
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
-        <p>[Phillip Compeau](http://compeau.cbd.cmu.edu) is an Associate Teaching Professor and the Assistant Department Head for Education in the [Computational Biology Department](http://cbd.cmu.edu) in Carnegie Mellon University's School of Computer Science. He directs the [undergraduate program in computational biology](http://www.cbd.cmu.edu/education/bs-in-computational-biology/), co-directs the Precollege Program in Computational Biology (http://www.cbd.cmu.edu/education/pre-college-program-in-computational-biology/), and serves as Assistant Director of the Master's in Computational Biology program (http://www.cmu.edu/ms-compbio/).
+        <p markdown="1"> [Phillip Compeau](http://compeau.cbd.cmu.edu) is an Associate Teaching Professor and the Assistant Department Head for Education in the [Computational Biology Department](http://cbd.cmu.edu) in Carnegie Mellon University's School of Computer Science. He directs the [undergraduate program in computational biology](http://www.cbd.cmu.edu/education/bs-in-computational-biology/), co-directs the Precollege Program in Computational Biology (http://www.cbd.cmu.edu/education/pre-college-program-in-computational-biology/), and serves as Assistant Director of the Master's in Computational Biology program (http://www.cmu.edu/ms-compbio/).
 
 Phillip is passionate about open online education, and his education projects have reached hundreds of thousands of learners around the world. He is the co-author of Bioinformatics Algorithms: An Active Learning Approach (http://bioinformaticsalgorithms.org), which has been adopted in over 140 institutions around the world. This textbook powers the popular Bioinformatics Specialization on Coursera (https://www.coursera.org/specializations/bioinformatics). He co-founded the learning platform Rosalind (http://rosalind.info) for learning programming, bioinformatics, and algorithms through independent problem solving.  Finally, Phillip is the founder of Programming for Lovers (http://compeau.cbd.cmu.edu/programming-for-lovers/), an online course in introductory programming motivated by fun scientific applications.</p>
         <p>example@example.com</p>
