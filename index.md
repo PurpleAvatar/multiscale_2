@@ -11,6 +11,12 @@ author_profile: false
 ![image-center](assets/images/bio-photo.jpg){: .align-center}
 *Could this be a caption?*
 
+The following text should be in-line latex via katex, set in the config yaml file $\sqrt{n}$
+
+On its own, would it be automatically centered? 
+
+$$x=\sqrt{n}$$
+
 We can also checkout footnotes, like This is some text.[^1]. 
 
 Other text.[^footnote].
