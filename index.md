@@ -24,7 +24,7 @@ Welcome to the home page
   /* Add new profiles, use 2 columns per row div */
   <div class="column">
     <div class="card">
-      <img src="assets/images/bio-photo.jpg" alt="Jane" style="width:100%; border-radius:50%">
+      <img src="assets/images/bio-photo.jpg" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
@@ -36,7 +36,7 @@ Welcome to the home page
   </div>
   <div class="column">
     <div class="card">
-      <img src="assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
+      <img src="assets/images/bio-photo.jpg" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
