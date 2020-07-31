@@ -21,6 +21,7 @@ Other text.[^footnote].
 Welcome to the home page
 
 <div class="row">
+  
   <div class="column">
     <div class="card">
       <img src="assets/images/Phillip_Compeau.JPG" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
@@ -35,6 +36,7 @@ Phillip is passionate about open online education, and his education projects ha
       </div>
     </div>
   </div>
+  
   <div class="column">
     <div class="card">
       <img src="assets/images/190820_Comp Bio_LEE_CHRIS_107.jpg" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
@@ -47,6 +49,20 @@ Phillip is passionate about open online education, and his education projects ha
       </div>
     </div>
   </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="assets/images/blurred_sides_square.png" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
+      <div class="container">
+        <h2>Jane Doe</h2>
+        <p class="title">CEO &amp; Founder</p>
+        <p>Chris Lee is a current graduate student at Carnegie Mellon University and is in the M.S. in Computational Biology Program. Previously, he was an undergraduate student at Rutgers University and worked as an undergraduate researcher studying hydrothermal vent bacteria. In 2019, Chris graduated magna cum laude with a B.A. in Molecular Biology & Biochemistry and double minor in Chemistry and Computer Science. He is currently interested in the fields of bioinformatics and genomics.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
 Try not to repeat the title with a wide layout, but did that pound sign break everything? Return back to the single format
