@@ -6,12 +6,14 @@ layout: single
 author_profile: false
 ---
 
-Different options for figure captions: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll
+## Title Here
 
 ![image-center](assets/images/bio-photo.jpg){: .align-center}
 *Could this be a caption?*
 
-We can also checkout footnotes, like This is some text.[^1]. Other text.[^footnote].
+We can also checkout footnotes, like This is some text.[^1]. 
+
+Other text.[^footnote].
 
 Welcome to the home page
 
@@ -30,8 +32,6 @@ Welcome to the home page
   </div>
 
 Try not to repeat the title with a wide layout, but did that pound sign break everything? Return back to the single format
-
-<div class="testBreak"> Text here with margins apparently, reaching across the sides </div>
 
 Where does this (here) text go? (index.md) Changing as we go10
 
