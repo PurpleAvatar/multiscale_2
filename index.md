@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: false
 ---
@@ -11,7 +8,7 @@ author_profile: false
 ![image-center](assets/images/bio-photo.jpg){: .align-center}
 *Could this be a caption?*
 
-The following text should be in-line latex via katex, set in the config yaml file and added to the layout single file $\sqrt{n}$
+The following text should be in-line latex via katex, set in the config yaml file and added to the layout single file $$\sqrt{n}$$
 
 On its own, would it be automatically centered? 
 
