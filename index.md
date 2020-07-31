@@ -6,20 +6,6 @@ layout: single
 author_profile: false
 ---
 
-<html>
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
-
-    <!-- The loading of KaTeX is deferred to speed up page rendering -->
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
-
-    <!-- To automatically render math in text elements, include the auto-render extension: -->
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous"
-        onload="renderMathInElement(document.body);"></script>
-  </head>
-  ...
-</html>
-
 ## Title Here
 
 ![image-center](assets/images/bio-photo.jpg){: .align-center}
@@ -28,10 +14,6 @@ author_profile: false
 The following text should be in-line latex via katex, set in the config yaml file and added to the layout single file $\sqrt{n}$
 
 On its own, would it be automatically centered? 
-
-{% katex %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
 
 We can also checkout footnotes, like This is some text.[^1]. 
 
