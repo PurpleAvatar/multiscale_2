@@ -50,6 +50,10 @@ Phillip is passionate about open online education, and his education projects ha
     </div>
   </div>
   
+</div>
+
+<div class="row">
+  
   <div class="column">
     <div class="card">
       <img src="assets/images/blurred_sides_square.png" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
