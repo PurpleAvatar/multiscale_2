@@ -15,9 +15,9 @@ The following text should be in-line latex via katex, set in the config yaml fil
 
 On its own, would it be automatically centered? 
 
-{% katexmm %}
-This is a mixed environment where you can have normal text and $c = \pm\sqrt{a^2 + b^2}$ fenced math. \$!
-{% endkatexmm %}
+{% katex %}
+c = \pm\sqrt{a^2 + b^2}
+{% endkatex %}
 
 We can also checkout footnotes, like This is some text.[^1]. 
 
