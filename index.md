@@ -74,7 +74,7 @@ Classes: wide" extends content to the right of this page. This is the home page,
 Adding the video here: 
 Note how the frameborder is set to 1, width/height originally set to 640/360
 
-<iframe width="50%" height="50%" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
 
 Here's some content after the video to check the formatting
 
