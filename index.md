@@ -21,7 +21,6 @@ Other text.[^footnote].
 Welcome to the home page
 
 <div class="row">
-  /* Add new profiles, use 2 columns per row div */
   <div class="column">
     <div class="card">
       <img src="assets/images/Phillip_Compeau.JPG" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
@@ -38,7 +37,7 @@ Phillip is passionate about open online education, and his education projects ha
   </div>
   <div class="column">
     <div class="card">
-      <img src="assets/images/190820_Comp Bio_LEE_CHRIS_107.jpg" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50">
+      <img src="assets/images/190820_Comp Bio_LEE_CHRIS_107.jpg" alt="Jane" style="display:block; margin:auto; width:90%; border-radius:50%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">CEO &amp; Founder</p>
