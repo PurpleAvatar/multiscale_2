@@ -16,7 +16,7 @@ The following text should be in-line latex via katex, set in the config yaml fil
 On its own, would it be automatically centered? 
 
 $$
-x=\sqrt{n}
+\sqrt{n}
 $$
 
 We can also checkout footnotes, like This is some text.[^1]. 
@@ -72,9 +72,9 @@ Where does this (here) text go? (index.md) Changing as we go10
 Classes: wide" extends content to the right of this page. This is the home page, (now) featured in the navigation bar
 
 Adding the video here: 
-Note how the frameborder is set to 1
+Note how the frameborder is set to 1, width/height originally set to 640/360
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
+<iframe width="50%" height="50%" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?start=210" frameborder="0" allowfullscreen></iframe>
 
 Here's some content after the video to check the formatting
 
