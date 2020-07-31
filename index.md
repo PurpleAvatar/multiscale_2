@@ -10,6 +10,10 @@ author_profile: false
 
 The following text should be in-line latex via katex, set in the config yaml file and added to the layout single file $$\sqrt{n}$$
 
+$$
+X = \sqrt{n+1}
+$$
+
 On its own, would it be automatically centered? 
 
 We can also checkout footnotes, like This is some text.[^1]. 
