@@ -19,19 +19,7 @@ Other text.[^footnote].
 Welcome to the home page
 
 <div class="row">
-  /* Add new profiles, use 3 columns per row div */
-  <div class="column">
-    <div class="card">
-      <img src="assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+  /* Add new profiles, use 2 columns per row div */
   <div class="column">
     <div class="card">
       <img src="assets/images/bio-photo.jpg" alt="Jane" style="width:100%">
