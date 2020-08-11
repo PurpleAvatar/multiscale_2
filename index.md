@@ -15,8 +15,9 @@ $$ X = \sqrt{n+1} $$
 On its own, would it be automatically centered? 
 
 We can also checkout footnotes, like This is some text.[^1]. 
-
+Additional footnotes?[^add]
 Other text.[^footnote].
+I didn't think it was possible, but a space inbetween strings?[^spaced footnote]
 
 Welcome to the home page
 
@@ -84,3 +85,5 @@ Here's some content after the video to check the formatting
 
 [^1]: This is the content of the first footnote
 [^footnote]: Here's the second footnote content
+[^add]: Additional content, what about out of order? 
+[^spaced footnote]: actually works? 
