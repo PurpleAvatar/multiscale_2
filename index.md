@@ -14,6 +14,8 @@ $$ X = \sqrt{n+1} $$
 
 On its own, would it be automatically centered? 
 
+Adding content
+
 We can also checkout footnotes, like This is some text.[^1]. 
 Additional footnotes?[^add]
 Other text.[^footnote].
