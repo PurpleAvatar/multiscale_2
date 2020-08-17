@@ -8,19 +8,28 @@ author_profile: false
 ![image-center](assets/images/bio-photo.jpg){: .align-center}
 *Could this be a caption?*
 
-The following text should be in-line latex via katex, set in the config yaml file and added to the layout single file $$\sqrt{n}$$
-
-$$ X = \sqrt{n+1} $$
+The following text should be in-line latex via katex, set in the config yaml file and added to the layout single file 
 
 On its own, would it be automatically centered? 
 
 Adding content
+
 | Molecule Name | Molecule Type | Color | 
 |:--------|:-------:|--------:|
 | predator  | Surface | Red | 
 | prey  | Surface  | Green | 
 | A  | Surface  | Blue | 
 {: style= "text-align: center;"}
+
+More text
+
+<center>
+| Molecule Name | Molecule Type | Color | 
+|:--------|:-------:|--------:|
+| predator  | Surface | Red | 
+| prey  | Surface  | Green | 
+| A  | Surface  | Blue | 
+</center>
 
 
 We can also checkout footnotes, like This is some text.[^1]. 
